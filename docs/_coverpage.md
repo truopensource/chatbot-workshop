@@ -8,8 +8,7 @@
 
 - Based on Google's  bot platform "Dialogflow"
 - Learn what is NLP ?
-- Build your own ChatBot, integrate with Facebook page.
-- Integrate Chatbot with your mobile number.
+- Build your own ChatBot, integrate with Facebook page and Mobile number!
 
-[GitHub](https://github.com/truopensource/chatbot-workshop)
+[GitHub Source](https://github.com/truopensource/chatbot-workshop)
 [Get Started](#chatbot-workshop)
