@@ -27,4 +27,4 @@ Some of the examples :
 
 ## Feedback
 
-We would highly appreciate it if you kindly give us some feedback on this workshop! [got 2 minutes!](https://bit.ly/2To1TqB). :heart:
+We would highly appreciate it if you kindly give us some feedback on this workshop! [got 2 minutes!](https://truopensource.typeform.com/to/zuAOGM). :heart:
