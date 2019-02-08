@@ -11,4 +11,8 @@
 
   - [Overview](intents-overview.md)
 
+- Quick Review
+
+  - [Step By Step](quick-review.md)
+
 - [About Us](aboutus.md)

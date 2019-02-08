@@ -11,6 +11,5 @@ Click Small Talk in the left menu.
 Click on the switch to enable.
 Click SAVE.
 
-
 Reference:
 https://dialogflow.com/docs/agents/prebuilt-smalltalk
