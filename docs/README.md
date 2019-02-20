@@ -30,4 +30,4 @@ Some of the examples : [Samples](https://dialogflow.com/docs/samples)
 We would highly appreciate it if you kindly give us some feedback on this workshop! [got 2 minutes!](https://truopensource.typeform.com/to/zuAOGM). ❤️
 
 
-## Refernece Used for this documentation  : [Dialogflow docs](https://dialogflow.com/docs)
+## Reference Used for this documentation  : [Dialogflow docs](https://dialogflow.com/docs)
