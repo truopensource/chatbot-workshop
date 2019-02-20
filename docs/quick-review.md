@@ -110,3 +110,32 @@ Sample Responses for Working Hours
 - Sorry! we're not open weekends.
 ```
 ![sample responses for ContactInfo](./_media/HoursResponses.png)
+
+## 6. Testing on Simulator
+
+1. Click on Right Sidebar Text "**See how it works in Google Assistant.**"
+
+<img src="./_media/LinktoSimulator.png" height="50%" width="50%" />
+
+2. You'll be redirected to this screen
+
+<img src="./_media/SimulatorHome.png" height="70%" width="90%" />
+
+3. Test your Training phrases that you entered in intents.
+
+<img src="./_media/SimulatorScreen.png" />
+
+## 7. Connecting it to Mobile number or other integrations  
+
+1. Click on left sidebar on Dialogflow console "Integrations"
+
+![Integrations](./_media/IntegrationScreen.png)
+2. Click on Dialogflow Phone Gateway
+    - enter area code of us you like or skip that step
+    - Select mobile no that you want
+
+    ![Dialogflow Phone Gateway](./_media/MobileConnection.png)
+
+    - click on create to integrate your bot with selected no
+
+    - It's integrated with selected mobile no.

@@ -4,7 +4,7 @@
 
 ## What it is about ?
 
-Write description here:
+Workshop is focused on creation chat bot ( an computerized system) that answers your questions by understanding them! Using Dialogflow platform you can create small conversational chatbots that you can integrate with your social media platforms like Facebook , twitter skype, also with Mobile no.
 
 See the [Quick start](quickstart.md) guide for learn step by step.
 
@@ -23,7 +23,7 @@ See the [Quick start](quickstart.md) guide for learn step by step.
 
 ## Examples
 
-Some of the examples : 
+Some of the examples : [Samples](https://dialogflow.com/docs/samples)
 
 ## Feedback
 
