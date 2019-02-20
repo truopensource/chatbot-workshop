@@ -74,17 +74,39 @@ Now create few more intents as named "ContactInfo" and "WorkingHours"
 Add few training phrases in ContactInfo:
 
 ```
-Where you're located ?
-How i can contact you?
-What's your address ?
-What's your email address?
-What your phone no?
+- Where you're located ?
+- How i can contact you?
+- What's your address ?
+- What's your email address?
+- What your phone no?
 ```
+![training phrases for ContactInfo](./_media/ContactInfoTraining.png)
 
 Add responses to ContactInfo intent
 
 ```
-We're located at 900 McGill, kamloops
-You can contact us on 250 123 456
-you can email us on demo@dmo.come
+- We're located at 900 McGill, kamloops
+- You can contact us on 250 123 456
+- you can email us on demo@dmo.come
 ```
+![sample responses for ContactInfo](./_media/ContactInfoResponse.png)
+
+> Its good to have different responses. Interaction can be better with various different responses
+
+Sample training phrases for Working Hours
+```
+- Are you open on weekends?
+- what day you're open ?
+- what hours you're open ?
+```
+![training phrases for ContactInfo](./_media/HoursTraining.png)
+
+Sample Responses for Working Hours
+
+```
+- We're open on Monday to Friday 9am to 6pm.
+- We are open weekdays, 9AM to 6 PM.
+- Our Working hours are Monday to Friday 9am to 6 pm.
+- Sorry! we're not open weekends.
+```
+![sample responses for ContactInfo](./_media/HoursResponses.png)

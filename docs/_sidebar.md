@@ -5,11 +5,15 @@
   - [NLP](nlp.md)
   - [Agents](agents.md)
   - [Pre-built Agents](prebuilt-agents.md)
-  - [Bot Training](bot-training.md)
+  - [Bot Training](training.md)
 
 - Intents
 
   - [Overview](intents-overview.md)
+
+- Entity
+
+  - [Overview](entity.md)
 
 - Quick Review
 
